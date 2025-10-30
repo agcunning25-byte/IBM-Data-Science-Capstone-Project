@@ -112,3 +112,39 @@ IBM-Data-Science-Capstone-Project/
 ├── SpaceX_Machine Learning Prediction_Part_5.ipynb
 └── README.md
 
+## 🧰 Tools & Technologies
+
+**Languages:** Python | SQL  
+**Libraries:** Pandas · NumPy · Seaborn · Plotly · Folium · BeautifulSoup · Scikit-Learn  
+**Database:** SQLite  
+**Environment:** Jupyter Notebooks  
+**API:** SpaceX REST API  
+
+---
+
+## 🪙 Key Takeaways
+
+✅ Demonstrates a **complete data science workflow** — from API data collection to ML model deployment.  
+✅ Combines **SQL analysis**, **EDA**, **visualization**, and **machine learning** in one cohesive pipeline.  
+✅ Integrates **interactive dashboards** and **maps** to communicate findings effectively to stakeholders.  
+
+---
+
+## 📚 Certification Context
+
+This project was developed as the final capstone requirement for the **IBM Data Science Professional Certificate**, showcasing practical expertise across:
+
+- **Data Wrangling & Cleaning**  
+- **SQL Querying & Exploratory Analysis**  
+- **Interactive Visualization** (Dash & Folium)  
+- **Machine Learning Model Building & Evaluation**  
+
+---
+
+## 🏆 Acknowledgments
+
+Special thanks to **IBM**, **Coursera**, and the **SpaceX API maintainers** for providing the tools and data to make this project possible.
+
+---
+
+© 2025 **Adam Cunningham** — All rights reserved.
