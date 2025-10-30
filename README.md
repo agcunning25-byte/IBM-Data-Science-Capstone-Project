@@ -98,55 +98,43 @@ These improvements would enhance recall and reduce false negatives in future ite
 ---
 
 ## 🗂️ Repository Structure
-
-```plaintext
-IBM-Data-Science-Capstone-Project/
-│
-├── jupyter-labs-spacex-data-collection-api.ipynb
-├── jupyter-labs-webscraping.ipynb
-├── labs-jupyter-spacex-Data wrangling.ipynb
-├── edadataviz.ipynb
-├── jupyter-labs-eda-sql-coursera_sqllite (1).ipynb
-├── lab_jupyter_launch_site_location (1).ipynb
-├── spacex_dash_app_py.ipynb
-├── SpaceX_Machine Learning Prediction_Part_5.ipynb
-└── README.md
+**Folder:** IBM-Data-Science-Capstone-Project/
+* jupyter-labs-spacex-data-collection-api.ipynb
+* jupyter-labs-webscraping.ipynb
+* labs-jupyter-spacex-Data wrangling.ipynb
+* edadataviz.ipynb
+* jupyter-labs-eda-sql-coursera_sqllite (1).ipynb
+* lab_jupyter_launch_site_location (1).ipynb
+* spacex_dash_app_py.ipynb
+* SpaceX_Machine Learning Prediction_Part_5.ipynb
+* README.md
 
 ---
 
 ## 🧰 Tools & Technologies
-
-**Languages:** Python | SQL  
-**Libraries:** Pandas · NumPy · Seaborn · Plotly · Folium · BeautifulSoup · Scikit-Learn  
-**Database:** SQLite  
-**Environment:** Jupyter Notebooks  
-**API:** SpaceX REST API  
+**Languages:** Python | SQL
+**Libraries:** Pandas · NumPy · Seaborn · Plotly · Folium · BeautifulSoup · Scikit-Learn
+**Database:** SQLite
+**Environment:** Jupyter Notebooks
+**API:** SpaceX REST API
 
 ---
 
 ## 🪙 Key Takeaways
-
-✅ Demonstrates a **complete data science workflow** — from API data collection to ML model deployment.  
-✅ Combines **SQL analysis**, **EDA**, **visualization**, and **machine learning** in one cohesive pipeline.  
-✅ Integrates **interactive dashboards** and **maps** to communicate findings effectively to stakeholders.  
-
----
+✅ Demonstrates a **complete data science workflow** — from API data collection to ML model deployment.
+✅ Combines **SQL analysis, EDA, visualization,** and **machine learning** in one cohesive pipeline.
+✅ Integrates **interactive dashboards** and **maps** to communicate findings effectively to stakeholders.
 
 ## 📚 Certification Context
-
 This project was developed as the final capstone requirement for the **IBM Data Science Professional Certificate**, showcasing practical expertise across:
+* **Data Wrangling & Cleaning**
+* **SQL Querying & Exploratory Analysis**
+* **Interactive Visualization (Dash & Folium)**
+* **Machine Learning Model Building & Evaluation**
 
-- **Data Wrangling & Cleaning**  
-- **SQL Querying & Exploratory Analysis**  
-- **Interactive Visualization** (Dash & Folium)  
-- **Machine Learning Model Building & Evaluation**  
 
----
 
 ## 🏆 Acknowledgments
-
 Special thanks to **IBM**, **Coursera**, and the **SpaceX API maintainers** for providing the tools and data to make this project possible.
-
----
 
 © 2025 **Adam Cunningham** — All rights reserved.
